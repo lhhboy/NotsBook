@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="edit_width">100dp</dimen>
+    <dimen name="edit_height">20dp</dimen>
+
+    <dimen name="bt_width">50dp</dimen>
+    <dimen name="bt_height">30dp</dimen>
+</resources>
