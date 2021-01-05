@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <litepal>
     <dbname value="UserInfo"></dbname>
-    <version values= "1"></version>
+    <version value= "1"></version>
     <list>
      <mapping class="com.lhh.simplenotebook.UserInfo"></mapping>
     </list>
